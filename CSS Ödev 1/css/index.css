@@ -1,0 +1,37 @@
+.container-fluid{
+    border-radius: 20px;
+}
+.navbar{
+    text-align: center;
+}
+.navbar-brand{
+    color: red;
+}
+.main-text{
+    text-align: center;
+    color: red;
+}
+.h3-text{
+    color: purple;
+    text-align: center;
+}
+.home-text{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h4-text{
+    color: orange;
+    text-align: center;
+    font-size: 18px;
+}
+.instruments-container{
+    text-align: center;
+    list-style-position: inside
+}
+.aboutus-h5-1 , .aboutus-h5-2{
+    color: orange;
+}
+.rounded{
+    width: 200px;
+    height: 200px;
+}
